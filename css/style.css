@@ -1,0 +1,26 @@
+body {
+  background-color: #69a427;
+}
+html {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 200px;
+  background-color: aliceblue;
+}
+.button {
+  background-color: #69a427;
+}
+.input {
+  border: none;
+  background-color: #eee;
+}
+a {
+  text-decoration: none;
+}
